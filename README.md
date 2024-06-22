@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agrianalyst:-Smart Agriculture Decision Support System**
 
-- 🌱 I’m currently learning **I’m currently learning Software Development**
+- 🌱 **I’m currently learning Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajwalbankar011](https://github.com/Prajwalbankar011)
 
