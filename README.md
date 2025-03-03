@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working as **Software Developer**
 
-- 🌱 **I’m currently learning Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajwalbankar011](https://github.com/Prajwalbankar011)
 
