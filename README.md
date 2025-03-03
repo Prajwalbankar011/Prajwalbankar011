@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalbankar011&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalbankar011" /> </p>
 
-- 🔭 I’m currently working on **Agrianalyst:-Smart Agriculture Decision Support System**
+- 🔭 I’m currently working as **Software Developer**
 
 - 🌱 **I’m currently learning Software Development**
 
