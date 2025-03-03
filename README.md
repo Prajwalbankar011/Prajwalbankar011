@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajwalbankar011](https://github.com/Prajwalbankar011)
 
-- 💬 Ask me about **C,Java,HTML,CSS,Python,Machine Learning**
+- 💬 Ask me about **Java,Python,HTML,CSS,JavaScript,ReactJS,Machine Learning**
 
 - 📫 How to reach me **prajwalbankar11@gmail.com**
 
