@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a **Full Stack Developer at LST Consultancy, Nashik**
 - 🌱 I’m building full-stack applications using **React, Next.js, Node.js, Prisma, and RESTful APIs**
 - 👨‍💻 All of my projects are available at: [GitHub](https://github.com/Prajwalbankar011)
-- 💬 Ask me about **Java, Python, ReactJS, HTML, CSS, JavaScript, Machine Learning**
+- 💬 Ask me about **Java, JavaScript, ReactJS, Next.JS, Node.JS, SQL,MySQL, HTML, CSS, Machine Learning**
 - 📫 Reach me at **prajwalbankar11@gmail.com**
 - ⚡ Fun fact: **I have a joke on programming, but it only works on my computer!**
 
